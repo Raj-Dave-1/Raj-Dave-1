@@ -5,21 +5,23 @@
 
 <p>Coding is my canvas, algorithms are my brush, and the server room is my gallery. As a backend engineer, I don't just write code; I sculpt the future of the digital universe with lines of logic and threads of innovation.</p>
 
-<h3 align="justify">I'm a developer with expertise in NodeJs, ExpressJs, NestJs, ReactJs and NextJs.
-Working on full stack development with technologies like 
-Frameworks: React, Node Js, Express Js, Nest Js
-Database: MongoDB, SQL, PostgreSQL, DynamoDB
-Cache: Redis
-DevOps: Docker, Kubernetes, AWS, ArgoCD, Github Workflow
-Cloud: AWS
+<h4 align="justify">I'm a developer with expertise in NodeJs, ExpressJs, NestJs, ReactJs and NextJs.
+Working on full stack development with technologies like... <br /> <br />
+Frameworks: React, Node Js, Express Js, Nest Js<br />
+Database: MongoDB, SQL, PostgreSQL, DynamoDB<br />
+Cache: Redis<br />
+DevOps: Docker, Kubernetes, AWS, ArgoCD, Github Workflow <br />
+Cloud: AWS<br />
+</h4>
+
 Engineering: 
 - Database Design / Architecting
 - Optimising database and Backend design
 - Authentication / Authorization (JWT, Role based authentication etc.)
 - Deploying code with CI / CD pipeline
 - stored procedures in database
+
   
-</h3>
 <br />
 <br />
 
