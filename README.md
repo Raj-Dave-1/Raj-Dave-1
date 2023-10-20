@@ -1,7 +1,6 @@
 ### Sitaram
 
-![Jimmy Ramani Banner Image](./Hello.png)
-<!-- <h1 align="center">Hi 👋, I'm Jimmy Ramani</h1>-->
+<h1 align="center">Coding is my canvas, algorithms are my brush, and the server room is my gallery. As a backend engineer, I don't just write code; I sculpt the future of the digital universe with lines of logic and threads of innovation.</h1>
 <h3 align="justify">I'm a developer with expertise in NodeJs, ExpressJs, NestJs, ReactJs and NextJs.
 Working on full stack development with technologies like 
 Frameworks: React, Node Js, Express Js, Nest Js
