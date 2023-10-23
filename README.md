@@ -20,6 +20,7 @@ Engineering:
 - Authentication / Authorization (JWT, Role based authentication etc.)
 - Deploying code with CI / CD pipeline
 - stored procedures in database
+- AWS AppRunner (Hostring frontend & backend)
 
   
 <br />
