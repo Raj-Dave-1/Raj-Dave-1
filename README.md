@@ -21,12 +21,17 @@ Welcome to my GitHub profile! I'm passionate about software development and cont
 
 ### Technologies & Tools
 - React / Vue.js
-- Node.js
+- Node.js / Nest Js
 - Git & GitHub
-- [Add other technologies]
+- Docker
+- AWS
+- MongoDB, Redis, PostgreSQL
+- System Design
+
 
 ### Domains
 - Full Stack Development
+- System Design
 - DevOps
 
 ## 🎯 Key Projects
