@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about software development and cont
 - 💻 **Developer** with a focus on building scalable and efficient solutions
 - 🌱 **Continuous Learner** always exploring new technologies and best practices
 - 🤝 **Open Source Enthusiast** committed to contributing to the community
-- 📍 Based in [Your Location]
+- 📍 Based in India
 
 ## 💼 Experience & Skills
 
